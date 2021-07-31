@@ -2,7 +2,7 @@
 
 ## 相关表结构
 
-![1627727076503](C:\Users\wenrongyu\AppData\Roaming\Typora\typora-user-images\1627727076503.png)
+![](https://raw.githubusercontent.com/wryu2010/image/master/img/1627727076503.png)
 
 ## 相关题目
 
