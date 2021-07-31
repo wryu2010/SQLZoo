@@ -1,5 +1,11 @@
 
 
+# 地址
+
+https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial
+
+
+
 ## 相关表结构
 
 ![](https://raw.githubusercontent.com/wryu2010/image/master/img/1627727076503.png)
@@ -104,3 +110,4 @@ select name,continent from world a
 where a.population > all 
     (select population*3 from world where continent = a.continent  and name <> a.name)
 ```
+
